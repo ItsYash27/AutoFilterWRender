@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.jpg">
+  <img src="assets/IMG_20230223_070129_924.jpg">
 </p>
 <h1 align="center">
   <b>PiroAutoFilterBot</b>
